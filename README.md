@@ -77,6 +77,14 @@ mpirun -np <number_of_processes> python ACO_main_pll.py
 ```
 Replace `<number_of_processes>` with the number of processors you want to allocate.
 
+### Dependencies
+
+To install the required dependencies, run:
+
+```python
+pip install -r requirements.txt
+```
+
 ### Future Improvements
 
 - Further optimization of the ACO algorithm.
