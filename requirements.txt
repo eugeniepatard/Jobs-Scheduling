@@ -1,0 +1,5 @@
+numpy==1.21.0
+networkx==2.5
+matplotlib==3.4.3  # Optional, for visualizations if used
+mpi4py==3.1.2  # For parallel execution with OpenMPI
+tqdm==4.62.3  # For progress bars in data loading
